@@ -49,6 +49,13 @@ module.exports = {
             "autographa/How-To/Text-Translate-Mode/p2-4-12-notifications",
           ],
         },
+        {
+          "OBS Translation Mode": [
+            "autographa/How-To/OBS-Translate-Mode/p2-5-1-open-bible-stories-mode",
+            
+          
+          ],
+        },
         "autographa/How-To/p2-5-profile",
       ],
     },
