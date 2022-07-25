@@ -52,11 +52,25 @@ module.exports = {
         {
           "OBS Translation Mode": [
             "autographa/How-To/OBS-Translate-Mode/p2-5-1-open-bible-stories-mode",
-            
-          
+            "autographa/How-To/OBS-Translate-Mode/p2-5-2-obs-editor-panel",
+            "autographa/How-To/OBS-Translate-Mode/p2-5-3-add-columns",
+            "autographa/How-To/OBS-Translate-Mode/p2-5-4-import-resources",
           ],
         },
-        "autographa/How-To/p2-5-profile",
+        {
+          "Autographa Functions": [
+            "autographa/How-To/Autographa-Functions/p2-6-1-profile",
+            "autographa/How-To/Autographa-Functions/p2-6-2-notifications",
+            "autographa/How-To/Autographa-Functions/p2-6-3-split-column",
+            "autographa/How-To/Autographa-Functions/p2-6-4-lock-unlock-editor",
+            "autographa/How-To/Autographa-Functions/p2-6-5-create-bookmarks",
+            "autographa/How-To/Autographa-Functions/p2-6-6-file-menu",
+            "autographa/How-To/Autographa-Functions/p2-6-7-edit",
+            "autographa/How-To/Autographa-Functions/p2-6-8-font",
+            "autographa/How-To/Autographa-Functions/p2-6-9-about",
+          ],
+        },
+        "autographa/How-To/p2-6-profile",
       ],
     },
     {
