@@ -39,14 +39,6 @@ module.exports = {
             "autographa/How-To/Text-Translate-Mode/p2-4-2-add-columns",
             "autographa/How-To/Text-Translate-Mode/p2-4-3-resource-types",
             "autographa/How-To/Text-Translate-Mode/p2-4-4-import-resources",
-            "autographa/How-To/Text-Translate-Mode/p2-4-5-split-column",
-            "autographa/How-To/Text-Translate-Mode/p2-4-6-lock-unlock-editor",
-            "autographa/How-To/Text-Translate-Mode/p2-4-7-create-bookmarks",
-            "autographa/How-To/Text-Translate-Mode/p2-4-8-file-menu",
-            "autographa/How-To/Text-Translate-Mode/p2-4-9-edit",
-            "autographa/How-To/Text-Translate-Mode/p2-4-10-about",
-            "autographa/How-To/Text-Translate-Mode/p2-4-11-font",
-            "autographa/How-To/Text-Translate-Mode/p2-4-12-notifications",
           ],
         },
         {
@@ -70,7 +62,6 @@ module.exports = {
             "autographa/How-To/Autographa-Functions/p2-6-9-about",
           ],
         },
-        "autographa/How-To/p2-6-profile",
       ],
     },
     {
